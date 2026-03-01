@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VitalsLog</string>
+    <string name="title_activity_main">VitalsLog</string>
+    <string name="package_name">com.loopspur.vitalslog</string>
+    <string name="custom_url_scheme">com.loopspur.vitalslog</string>
+</resources>

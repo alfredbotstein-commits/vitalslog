@@ -1,0 +1,8 @@
+{
+  "appId": "com.loopspur.vitalslog",
+  "appName": "VitalsLog",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
